@@ -19,6 +19,14 @@
    Product owner:responsible for managing the product backlog. Works with end-users and customers and provides proper requirements to the team.
    Scrum Master :works with the scrum team to make sure each sprint gets completed on time
    Scrum Team   :Each member of the team ( dev ,tester ,SDE , TDE)
+
+5) What is Product Backlog & Sprint Backlog?
+   Product Backlog : It is maintained by the product  owner which contains every feature and requirement of the product.
+   Sprint Backlog : Subset of Product backlog that belongs to Sprint .
+
+6)velocity in agile?
+  it predicts how much work Agile can complete in a sprint and how much time it will require to complete a project.
+  
    
 
 
