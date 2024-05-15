@@ -10,4 +10,23 @@
 
 2) What is Agile Testing?
     It's a testing which is performed when there is contiuous change in the requirement.
-3) 
+
+3) What is the difference between burn-up and burn-down charts?
+   Burn-up charts represent how much work has been completed in the project.
+   Burn-down chart represents the remaining work in a project.
+
+4) Define all the roles in Scrum?
+   Product owner:responsible for managing the product backlog. Works with end-users and customers and provides proper requirements to the team.
+   Scrum Master :works with the scrum team to make sure each sprint gets completed on time
+   Scrum Team   :Each member of the team ( dev ,tester ,SDE , TDE)
+   
+
+
+
+
+
+
+
+
+
+
