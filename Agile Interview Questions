@@ -26,6 +26,9 @@
 
 6)velocity in agile?
   it predicts how much work Agile can complete in a sprint and how much time it will require to complete a project.
+
+7) How do you deal when requirements change frequently?
+   Work with PO to understand the exact requirement to update test cases. Also, understand the risk of changing the requirements.
   
    
 
