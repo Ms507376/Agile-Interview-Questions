@@ -1,4 +1,4 @@
-1) Defect Life cycle - Satges?
+1) Defect Life cycle - Stages?
      New/Open
      Deferred/Postponed
      Rejected
@@ -9,7 +9,7 @@
      Verified/Closed.
 
 2) What is Agile Testing?
-    It's a testing which is performed when there is contiuous change in the requirement.
+    It's a testing which is performed when there is continuous change in the requirement.
 
 3) What is the difference between burn-up and burn-down charts?
    Burn-up charts represent how much work has been completed in the project.
@@ -31,10 +31,15 @@
    Work with PO to understand the exact requirement to update test cases. Also, understand the risk of changing the requirements.
 
 8) What is the Zero sprint in Agile?
-    it is pre-preparation step to the first sprint. Activities like setting development environment, preparing backlogs,
+    it is pre-preparation step to the first sprint. Activities like setting development environment, preparing backlogs.
+
+9) What is requirement tracebility matrix?
+   RTM stands for Requirement Traceability matrix. RTM maps all the requirements with the test cases.
+   The main purpose of the requirement traceability matrix is to verify that the all requirements of clients are covered in the test cases designed by the testers.
+
+
   
-   
-https://www.softwaretestinghelp.com/25-best-agile-testing-interview-questions-and-answers/
+
 
 
 
