@@ -37,7 +37,40 @@
    RTM stands for Requirement Traceability matrix. RTM maps all the requirements with the test cases.
    The main purpose of the requirement traceability matrix is to verify that the all requirements of clients are covered in the test cases designed by the testers.
 
-10) who sets the prioirity and Sevrity? Example high severity , low priority
+10) who sets the prioirity and Sevrity? Example high severity , low priority?
+    Test engineer sets the severity of defect and priority of defect is set by project manager & Client(together)after discussion.
+    Severity : Critical ,major ,minor,low
+    priority : high(P1), medium(P2) ,low(P3)
+    a)High Priority and High Severity
+      The products added to the cart of an e-commerce website are not visible on the payment page.
+      The login button of the application is not working.
+  
+    b) High Priority and Low Severity
+       The logo of the company’s welcome page is distorted.
+       If  the information on the page appears hazy.
+
+    c) Low Priority and High Severity
+        If the application is crashing on passing very large input for processing (which is very rarely done).
+
+    d)Low Priority and Low Severity
+       A spelling mistake on the page of the site which is not frequently visited.
+       The color of any text does not match the theme of the website.
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
