@@ -55,6 +55,22 @@
     d)Low Priority and Low Severity
        A spelling mistake on the page of the site which is not frequently visited.
        The color of any text does not match the theme of the website.
+
+11) What is functional and non-functional testing?What are the types of functional software testing?
+    Functional testing tests the functionality of an application while non-functional testing tests the performance of these functions.
+ a)Functional testing:
+    Unit testing
+    Integration testing
+    API testing
+    System testing
+    User acceptance testing.
+b) Non-functional testing
+   performance testing
+   Security testing
+   compatability testing.
+     
+    
+    
         
       
 
