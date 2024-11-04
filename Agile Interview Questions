@@ -68,7 +68,12 @@ b) Non-functional testing
    performance testing
    Security testing
    compatability testing.
-     
+
+12) what is difference between alpha and beta testing??
+    Alpha testing - It's done by  tester in test env and sometime developer also do as unit testing.
+    Beta testing- It's done by end user in real time environment.
+
+    
     
     
         
