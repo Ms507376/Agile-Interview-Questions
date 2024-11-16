@@ -50,7 +50,8 @@
        If  the information on the page appears hazy.
 
     c) Low Priority and High Severity
-        If the application is crashing on passing very large input for processing (which is very rarely done).
+        Application that doesn't work, but is rarely used
+        This bug has high severity because it prevents the application from working. However, it has low priority because the application is rarely used
 
     d)Low Priority and Low Severity
        A spelling mistake on the page of the site which is not frequently visited.
