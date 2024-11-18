@@ -1,11 +1,10 @@
 1) Defect Life cycle - Stages?
      New/Open
-     Deferred/Postponed
-     Rejected
-     Assigned.
+     Assigned( Deferred/Postponed ,Rejected)
      In Progress
-      Fixed
-     Retest.
+     Fixed/Defect Resolved
+     Retest
+     passed
      Verified/Closed.
 
 2) What is Agile Testing?
