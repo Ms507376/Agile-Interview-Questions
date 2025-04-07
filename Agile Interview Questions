@@ -74,7 +74,20 @@ b) Non-functional testing
     Beta testing- It's done by end user in real time environment.
 
 13) what is test strategies technique?
+     
 14) what is entry and exit criteria for testing?
+    Entry criteria - It defines when to start the testing.
+                   - It also defines which functionality should be tested first based on the key functionality .
+    Exit criteria  - Exit criteria indicate when to stop testing.
+                   - Once the 100% of the requirements coverage has been achieved.
+                   - Critical  and High Priority Defects identified and fixed.
+                   - Test Coverage: Test coverage should be 95% achieved.
+                   - Very few medium priority defects should be open , such that there is no impact on application.
+                   - All test documents and deliverables, such as the Test Summary Report, should be prepared, reviewed, and published.
+
+
+
+
 
 
     
