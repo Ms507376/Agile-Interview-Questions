@@ -86,6 +86,20 @@ b) Non-functional testing
                    - Very few medium priority defects should be open , such that there is no impact on application.
                    - All test documents and deliverables, such as the Test Summary Report, should be prepared, reviewed, and published.
 
+15) What is bug/defect/error ?
+     Bug   -It refers to an issue in the software that causes it to behave unexpectedly or incorrectly.It is an informal term used to describe defects in the software.
+     Defect-It is a deviation between the actual and expected results of the software.Defects are identified by testers during the execution of test cases and are 
+             resolved by developers during the development phase.
+     error -It is a mistake made by the developer during the coding process.It occurs when the developer misunderstands the requirements or makes a coding mistake.
+            Errors can be caused by wrong logic, syntax issues
+
+16) Bug/Defect leakage ??
+    A defect which exists during the testing but was not found by the tester and is eventually found by end user that is called defect/bug lekage.
+
+
+
+
+
 
 
 
