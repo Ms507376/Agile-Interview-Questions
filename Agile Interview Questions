@@ -73,7 +73,11 @@ b) Non-functional testing
     Alpha testing - It's done by  tester in test env and sometime developer also do as unit testing.
     Beta testing- It's done by end user in real time environment.
 
-13) what is test strategies technique?
+13) what is test strategies and test plan ??
+     Test plan is carried out by a testing manager or lead that describes how to test, when to test, who will test and what to test.
+     Test strategy is carried out by the project manager. It says what type of technique to follow and which module to test.
+    
+     
    
      
 14) what is entry and exit criteria for testing?
