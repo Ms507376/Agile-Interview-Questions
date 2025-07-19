@@ -107,6 +107,14 @@ b) Non-functional testing
 16) Bug/Defect leakage ??
     A defect which exists during the testing but was not found by the tester and is eventually found by end user that is called defect/bug lekage.
 
+17 ) what is SDLC and STLC ??
+     SDLC - Software development life cycle basically it consits different phases like Requirements gathering, design(Low and high level), development, testing,
+             deployment, and maintenance.
+          - Team Involved Project Managers, Business Analysts, Designers, Developers
+
+     STLC - Software testing life cycle basically it consists different phases like Test planning, test design, test execution, defect tracking, and test closure.
+          - Team involved Quality Assurance and Testing Teams
+
 
 
 
